@@ -20,4 +20,12 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-memory_template.py
 - http://www.codeskulptor.org/#examples-memory_states.py
 - [# 5 - Memory] (http://www.codeskulptor.org/#user14_bmeIFbLFi3_24.py)
+- http://www.codeskulptor.org/#examples-oo-character.py
+- http://www.codeskulptor.org/#examples-oo-ball.py 
+- http://www.codeskulptor.org/#examples-particle_class.py
+- http://www.codeskulptor.org/#examples-particle_testing_template.py
+- http://www.codeskulptor.org/#examples-blackjack.py
+- http://www.codeskulptor.org/#examples-tiled_images.py
+- 
+- -
 - -
