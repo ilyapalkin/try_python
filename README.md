@@ -26,6 +26,7 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-particle_testing_template.py
 - http://www.codeskulptor.org/#examples-blackjack.py
 - http://www.codeskulptor.org/#examples-tiled_images.py
+- http://www.codeskulptor.org/#examples-tips6.py
 - 
-- -
-- -
+- 
+- 
