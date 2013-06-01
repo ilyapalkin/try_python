@@ -28,5 +28,9 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-tiled_images.py
 - http://www.codeskulptor.org/#examples-tips6.py
 - http://www.codeskulptor.org/#examples-blackjack_template.py
-- 
-- 
+- -
+- [Card class test template] (http://www.codeskulptor.org/#examples-card_template.py)
+- [Hand class test temolate] (http://www.codeskulptor.org/#examples-hand_template.py)
+- [Deal class test template] (http://www.codeskulptor.org/#examples-deck_template.py)
+- [Hand class test template 2] (http://www.codeskulptor.org/#examples-getvalue_template.py)
+- [# 6 - Blackjack] (http://www.codeskulptor.org/#user15_E4Xh9UZBWp_7.py)
