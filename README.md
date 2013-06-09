@@ -41,4 +41,11 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-tips7.py
 - http://www.codeskulptor.org/#examples-spaceship_template.py
 - [# 7 - Spaceship] (http://www.codeskulptor.org/#user15_ZL1g73lE1T_21.py)
-
+- -
+- http://www.codeskulptor.org/#examples-sets.py
+- http://www.codeskulptor.org/#examples-set_difference.py
+- http://www.codeskulptor.org/#examples-asteroid_animation.py
+- http://www.codeskulptor.org/#examples-explosion_animation.py
+- http://www.codeskulptor.org/#examples-ricerocks_template.py
+- [# 8 - RiceRocks] (http://www.codeskulptor.org/#user16_q7EYszlG3Z_9.py)
+ 
