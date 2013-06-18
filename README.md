@@ -48,7 +48,7 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-explosion_animation.py
 - http://www.codeskulptor.org/#examples-ricerocks_template.py
 - [# 8 - RiceRocks] (http://www.codeskulptor.org/#user16_q7EYszlG3Z_9.py)
--
+- -
 - http://www.python.org/
 - http://wiki.python.org/moin/UsefulModules#GUI
 - http://wiki.python.org/moin/PythonGameLibraries
