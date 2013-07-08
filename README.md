@@ -40,7 +40,7 @@ First look: scripts are stored on [codeskulptor.org](www.codeskulptor.org)
 - http://www.codeskulptor.org/#examples-sprite_example.py
 - http://www.codeskulptor.org/#examples-tips7.py
 - http://www.codeskulptor.org/#examples-spaceship_template.py
-- [# 7 - Spaceship] (http://www.codeskulptor.org/#user15_ZL1g73lE1T_21.py)
+- [# 7 - Spaceship] (http://www.codeskulptor.org/#user16_ZL1g73lE1T_21.py)
 - -
 - http://www.codeskulptor.org/#examples-sets.py
 - http://www.codeskulptor.org/#examples-set_difference.py
